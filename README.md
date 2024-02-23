@@ -12,5 +12,10 @@ git clone https://github.com/your-username/types-of-variables.git
 
 Then, explore the examples and code provided in the repository to understand how variables can be converted from one type to another.
 
+## Example
+
+![image](https://github.com/APape95/types-of-variables/assets/158771090/da628858-9b26-4925-8b9f-30955decb504)
+
+
 # :busts_in_silhouette:Contributing:busts_in_silhouette:	
 Contributions are welcome! If you have any improvements or additional examples to add, please feel free to submit a pull request.
